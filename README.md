@@ -9,7 +9,7 @@ Profissional com sólida experiência na área de desenvolvimento de software. M
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Daniel%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=blue&logo=in"
         />
     </a>
     <a href="https://github.com/Daniels132?tab=repositories&sort=stargazers">
